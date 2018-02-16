@@ -1,4 +1,6 @@
-# Bcoin
+# Bcoin-Edu
+
+This is a port of Bcoin for Bitcoin Edu.
 
 __NOTE__: The latest release of bcoin contains a non-backward compatible change
 to the rest API. Please read the [changelog]'s "migrating" section for more
